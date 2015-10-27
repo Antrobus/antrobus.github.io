@@ -17,7 +17,8 @@ font-family: 'Amatic SC', cursive;
 font-size: 45px;
 color: white;
 float: left;
-margin-left: 13%;
+margin-left: 15%;
+margin-top: 10px;
 }
 .nav div {
   margin-top: 25px;
