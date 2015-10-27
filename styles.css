@@ -9,4 +9,12 @@ p {
     font-size: 21px;
     text-align: center;
     vertical-align: center;
+    padding-right: 300px;
+    padding-top: 50px;
+}
+.nav {
+font-family: 'Amatic SC', cursive;
+font-size: 45px;
+float: left;
+padding-left: 195px;
 }
