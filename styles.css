@@ -15,6 +15,10 @@ p {
 .nav {
 font-family: 'Amatic SC', cursive;
 font-size: 45px;
+color: white;
 float: left;
-padding-left: 195px;
+margin-left: 13%;
+}
+.nav div {
+  margin-top: 25px;
 }
