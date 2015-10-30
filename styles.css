@@ -24,3 +24,6 @@ margin-top: 10px;
 .nav div {
   margin-top: 25px;
 }
+a {
+  text-decoration: none;
+}
